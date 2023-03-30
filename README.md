@@ -6,3 +6,4 @@ nx未联网时，时间不更新，每次需要同步时间。 使用ntpdate
 利用脚本，和terminater中的 
 import numpy  使用时np.pi
 from numpy import pi  直接写pi
+ubuntu不同版本换源不一样
