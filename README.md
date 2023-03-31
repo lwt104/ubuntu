@@ -7,3 +7,4 @@ nx未联网时，时间不更新，每次需要同步时间。 使用ntpdate
 import numpy  使用时np.pi
 from numpy import pi  直接写pi
 ubuntu不同版本换源不一样
+开机自启动： 将所需要的脚本路径写在 /etc/rc.loal中  chmod +x 脚本路径
