@@ -9,3 +9,4 @@ from numpy import pi  直接写pi
 ubuntu不同版本换源不一样
 开机自启动： 将需要启动的脚本路径写在 /etc/rc.loal中  chmod +x 脚本路径
 terminate 分组 alt+a （all） alt+g（group） alt+o取消
+ssh 切换成root用户   su -
