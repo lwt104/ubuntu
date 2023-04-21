@@ -17,3 +17,4 @@ ssh 切换成root用户   su -
 
 #ros
 launch中的group标签，可以给节点赋予命名空间，一般加/的表示全局空间
+多机器人中，用tf_prefix来表征不同机器人的tf
